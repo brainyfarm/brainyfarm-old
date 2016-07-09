@@ -1,9 +1,9 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "Olawale-clean-blog",
+    "title": "Olawale blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "homepage": "http://masterbrainy.com",
+    "author": "Olawale Akinseye",
     "license": "MIT",
     "devDependencies": {
         "grunt": "~0.4.5",
